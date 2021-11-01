@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="lightGreyColor">#EFEFEF</color>
     <color name="grey">#90A4AE</color>
+    <color name="buttonColor">#FABC61</color>
+    <color name="textbtnColor">#0433BE</color>
+    <color name="textviewColor">#F1D9BF</color>
+    <color name="linerBackgrdColor">#004455</color>
 </resources>
